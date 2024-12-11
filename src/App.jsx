@@ -4,7 +4,7 @@ import './index.css';
 const Header = () => (
   <header role="banner" className="header-nvidia">
     <div className="header-content">
-      <img src="https://avatars.githubusercontent.com/u/125604915?v=4" alt="Your Name" className="header-logo" />
+      <img src="https://avatars.githubusercontent.com/u/125604915?v=4" alt="Niladri Das" className="header-logo" />
       <div className="header-text">
         <h1 className="header-title">Niladri Das</h1>
         <p className="header-subtitle">Solutions Architect | Full Stack Engineer</p>
@@ -38,7 +38,7 @@ const HeroSection = () => (
           <img 
             src="https://avatars.githubusercontent.com/u/125604915?v=4" 
             alt="Professional Headshot" 
-            className="profile-image-nvidia" 
+            className="profile-image" 
           />
           <div className="profile-overlay"></div>
         </div>
